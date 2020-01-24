@@ -1,0 +1,39 @@
+[
+    {
+        "url": "https://www.deezer.com/album/91598612",
+        "result": {
+            "id": 91598612,
+            "type": "album"            
+        }
+    },
+    {
+        "url": "https://www.deezer.com/en/track/728045552",
+        "result": {
+            "id": 728045552,
+            "type": "track"            
+        }
+    },    
+    {
+        "url": "https://www.deezer.com/fr/playlist/2055080624?utm_campaign=foo&utm_content=bar",
+        "result": {
+            "id": 2055080624,
+            "type": "playlist"
+        }
+    },    
+    {
+        "url": "https://www.deezer.com",
+        "result": null
+    },    
+    {
+        "url": "https://www.deezer.com/foo/123",
+        "result": null
+    },
+    {
+        "url": "https://www.deezer.com/album/bar",
+        "result": null
+    },
+    {
+        "url": "https://www.deezer.com/en_US/album/91598612",
+        "result": null
+    }
+]

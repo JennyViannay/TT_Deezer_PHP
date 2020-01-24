@@ -1,0 +1,10 @@
+{
+    "name": "test/decorator",
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "scripts": {
+        "test": "php decorator.php"
+    },
+    "require": {}
+}

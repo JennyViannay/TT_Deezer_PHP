@@ -1,0 +1,12 @@
+{
+    "name": "test/parser",
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "scripts": {
+        "test": "php parse.php"
+    },
+    "require": {
+      "ext-json": "*"
+    }
+}
